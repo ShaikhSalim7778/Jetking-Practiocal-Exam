@@ -1,0 +1,9 @@
+Cryptocurrency Token on Binanece
+
+1. open Internet Exporlar and add a metamask extension.
+2. open metamask and click on add a network
+3. enter details
+   network name, ROC URL, Chain Id, Currency symbol and block Url.
+4. open metamask and copy my metamask bnb account number
+5. and go to google and search get test ether 
+6. adding 1 test ether in my account.
